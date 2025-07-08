@@ -1,0 +1,15 @@
+{
+  "name": "sitemap-server",
+  "version": "1.0.0",
+  "description": "Simple server to serve sitemap.xml",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
